@@ -1,0 +1,14 @@
+#
+#  Argus Software.
+#  Copyright (c) 2000-2012 QoSient, LLC
+#  All rights reserved.
+#
+#  $Id: //depot/argus/argus/AUTHORS#3 $
+#  $DateTime: 2012/01/03 19:15:19 $
+#  $Change: 2274 $
+
+Argus and its client software are written by Carter Bullard <carter@qosient.com>
+
+Many contributions of fixes, bug reports and design have been submitted to the
+argus developers mailing list over the years, please see the ./CREDITS file for
+those that have contributed the most.
